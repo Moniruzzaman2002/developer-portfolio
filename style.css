@@ -33,3 +33,15 @@ section{
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
 }
+.Experience{
+    padding: 10px;
+    border-left: 5px solid blueviolet;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px black;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
